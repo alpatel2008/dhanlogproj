@@ -1,0 +1,37 @@
+{
+  "Bajaj Finance": {
+    "ltp": 8862.5,
+    "high": 8915.0,
+    "low": 8566.0,
+    "open": 8575.5,
+    "status": "Watching"
+  },
+  "Axis Bank": {
+    "ltp": 1182.2,
+    "high": 1210.5,
+    "low": 1180.1,
+    "open": 1182.1,
+    "status": "Watching"
+  },
+  "SBI": {
+    "ltp": 800.0,
+    "high": 803.4,
+    "low": 789.0,
+    "open": 790.35,
+    "status": "Watching"
+  },
+  "HDFC Bank": {
+    "ltp": 1925.0,
+    "high": 1941.9,
+    "low": 1920.0,
+    "open": 1929.8,
+    "status": "Watching"
+  },
+  "ICICI Bank": {
+    "ltp": 1432.4,
+    "high": 1446.6,
+    "low": 1424.6,
+    "open": 1426.9,
+    "status": "Watching"
+  }
+}
